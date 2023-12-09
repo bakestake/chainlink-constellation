@@ -23,7 +23,7 @@
       - We have automated this with combination of Amazon AWS lambda and chainlink oracle functions.
       - Our custom lambda endpoint gathers state from all chains and with help of chainlink functions and automation we update state across chains.
         
-  - *Chainlink automation*
+  - *Chainlink Automation*
       - Chainlink automation is important part of stake N Bake.
       - Stake N Bake utilizes automation for triggering state changes across chains & for timely distribution of staking rewards.
 
@@ -32,20 +32,11 @@
       - We utilize CCIP for cross chain messaging from users source chain to destination chain.
       - It involves cross chain messaging from source to destination and performing specific functions upon receiving a cross chain message.
 
-### How we built it
-      - Stake N' Bake is combination of cross-chain and gameFi. 
-      - This combines gaming features that are expected from a gameFi project to make it more interactive and enjoyable Also enabling cross chain features to allow cross-            chain gaming experience. 
-      - We have utilized whole suite of chainlink tools with developer tools like Thirdweb SDK, Amazon AWS Lambda, and other tools.
-      - The combination of this tools are powering the Stake N Bake from under the hood.
-      - Not only technical implementation but good product research is kept in mind while coming up with this idea. 
-      
-### Challenges faced
-      - Challenges are part of building and are symbol of progress.
-      - As we were integrating chainlink and other tools in Stake N Bake we faced hurdles with implementation, performance and debugging various functions.
-      - Challenges mainly revolved around enhancing performance and utilizing tools correctly to ensure good performance.
-      - To resolve the issues we faced, We have got constant support from chainlink and other communities. 
+### Team Insights from the Hackathon 
 
-### Accomplishments We're Proud Of
-      - We are proud of the features that we have built to make Stake N Bake enjoyable and interesting.
-      - Though we have achieved major features that we visioned but we look forward to fill in the gaps for improvment.
-      - We take pride in being one of the first gameFi projects to be in cross-chain gameFi space.
+  - We faced hurdles in the implementation, performance, and debugging of various functions. But it was nothing that put us to a stop and the Chainlink team was always helpful.
+  - The hackathon gave us a chance to iterate on the product market fit of our idea and makes us proud of the features that we have built to make Stake N Bake unique and exciting.
+  - Though we have achieved major milestones, we are eager to experiment with new infra to enhance the UX. As of now we have added gasless smart wallets, but we are determined to innovate to a point where the entire waiting time is abstracted away for cross chain 
+  transactions.
+
+
