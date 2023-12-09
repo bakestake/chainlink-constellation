@@ -1,4 +1,4 @@
-# STAKE N' BAKE
+# Stake n' Bake
 ![Stake_N_Bake](https://github.com/Rushikesh0125/Chainlink-constellation/assets/85375791/f57cd8d0-accf-4b4d-8120-f6e80f0ac120)
 ## Chainlink-Constellation-Submission
 ### Brief
